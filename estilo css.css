@@ -1,0 +1,33 @@
+
+h1 {
+    color:blue;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+body {
+        background-color: rgb(42, 165, 134);
+}
+#titulo {
+    font-size : 40px;
+}
+
+.lprincipal {
+    color:black;
+}
+
+a:link {
+    color:blueviolet;
+    background-color: brown;
+}
+
+* {
+    color:darkgreen;
+}
+
+#formulario {
+        bordeer= 5px;
+        border-style: solid;
+        border-color: gold;
+        border-radius: 20px;
+}
